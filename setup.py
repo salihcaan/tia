@@ -10,6 +10,6 @@ setup(
     license='unlicense',
     install_requires=['numpy', 'matplotlib', 'pandas', 'seabon', 'reportlab', 'pythoncom', 'win32com',
                       'blpapi', 'pdfrw'],
-    packages=['pat'],
+    packages=['tia'],
     zip_safe=False
 )
