@@ -1,1 +1,1 @@
-from .bbg import datamgr
+from . import bbg
